@@ -1,6 +1,6 @@
 Package: geoR
-Version: 1.7-5.2.2
-Date: 2016-05-02
+Version: 1.7-5.2.3
+Date: 2020-10-02
 Title: Analysis of Geostatistical Data
 LazyLoad: yes
 LazyData: yes
